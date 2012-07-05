@@ -5,7 +5,7 @@
 		<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
 		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 		<meta name="author" content="Giedrius Rimkus" />
-		<meta name="copyright" content="www.dirtrally.net 2010 - 2011" />
+    <meta name="copyright" content="Dirt Rally 2012" />
 		<meta name="description" content="Dirt rally is online rally management game! You will manage your own rally team!" />
 		<meta name="keywords" content="rally manager, dirt rally, online rally manager, rally manager online, web-based manager, rally management game, world rally manager, rally game, rally, rally cars, rally crew, online manager, dirtrally, ralis, ralio zaidimas lietuvoje, ralis lietuva" />
 		<meta name="y_key" content="5508d08f36b3a694" /><!-- yahoo -->
@@ -13,12 +13,12 @@
 		<link rel="stylesheet" href="require.css" type="text/css" />
 		<link rel="stylesheet" href="style.css" type="text/css" />
 
-<meta property="og:title" content="Dirt Rally - online rally manager!" />
-<meta property="og:type" content="company" />
-<meta property="og:site_name" content="Dirt Rally" />
-<meta property="og:url" content="http://www.dirtrally.net" />
-<meta property="og:image" content="null" />
-<meta property="og:description" content="I've just signed up for being informed when game goes live!" />
+    <meta property="og:title" content="Dirt Rally - online rally manager!" />
+    <meta property="og:type" content="company" />
+    <meta property="og:site_name" content="Dirt Rally" />
+    <meta property="og:url" content="http://www.dirtrally.net" />
+    <meta property="og:image" content="null" />
+    <meta property="og:description" content="I've just signed up for being informed when game goes live!" />
 	</head>
 
 	<body>
