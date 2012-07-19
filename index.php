@@ -40,8 +40,9 @@ Interested? We can let you know, when we are ready!
 <br />
 
     <div style="text-align: center; margin: 10px auto; width: 400px">
+  Read more about our <a href="https://github.com/giedriusr/dirtrally-logo-competition">logo competition here</a>!<br>
+  Also, <a href="http://blog.giedriusr.lt/tag/dirtrallydevelopment">Dirt Rally Development Blog</a>!<br>
       <?php include('includes/keywords.html') ?>
-  Read more about our <a href="https://github.com/giedriusr/dirtrally-logo-competition">logo competition here</a>!
     </div>
 
 
