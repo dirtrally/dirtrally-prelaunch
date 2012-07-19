@@ -40,6 +40,10 @@ Interested? We can let you know, when we are ready!
 <br />
 
     <div style="text-align: center; margin: 10px auto; width: 400px">
+   <a href="https://twitter.com/dirtrally" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @dirtrally</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<br><br>
   Read more about our <a href="https://github.com/giedriusr/dirtrally-logo-competition">logo competition here</a>!<br>
   Also, <a href="http://blog.giedriusr.lt/tag/dirtrallydevelopment">Dirt Rally Development Blog</a>!<br>
       <?php include('includes/keywords.html') ?>
