@@ -40,12 +40,13 @@ Interested? We can let you know, when we are ready!
 <br />
 
     <div style="text-align: center; margin: 10px auto; width: 400px">
-      <?php require('includes/keywords.html') ?>
+      <?php include('includes/keywords.html') ?>
+  Read more about our <a href="https://github.com/giedriusr/dirtrally-logo-competition">logo competition here</a>!
     </div>
 
 
-    <?php require('includes/facebook-fanbox.html') ?>
-    <?php require('includes/follow-us.php') ?>
+    <?php include('includes/facebook-fanbox.html') ?>
+    <?php include('includes/follow-us.php') ?>
     <?php include('includes/google-analytics.html') ?>
 
       <div style="text-align: center; margin-top: 10px;">
