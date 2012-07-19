@@ -1,17 +1,16 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-	<head>
-		<title>Dirt Rally - rally manager online</title>
-		<meta http-equiv="content-Type" content="text/html; charset=utf-8" />
-		<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-		<meta name="author" content="Giedrius Rimkus" />
-    <meta name="copyright" content="Dirt Rally 2012" />
-		<meta name="description" content="Dirt rally is online rally management game! You will manage your own rally team!" />
-		<meta name="keywords" content="rally manager, dirt rally, online rally manager, rally manager online, web-based manager, rally management game, world rally manager, rally game, rally, rally cars, rally crew, online manager, dirtrally, ralis, ralio zaidimas lietuvoje, ralis lietuva" />
-		<meta name="y_key" content="5508d08f36b3a694" /><!-- yahoo -->
-		<link rel="stylesheet" href="common.css" type="text/css" />
-		<link rel="stylesheet" href="require.css" type="text/css" />
-		<link rel="stylesheet" href="style.css" type="text/css" />
+  <head>
+    <title>Dirt Rally - rally manager online</title>
+    <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <meta name="author" content="Giedrius Rimkus" />
+    <meta name="description" content="Dirt rally is online rally management game! You will manage your own rally team!" />
+    <meta name="keywords" content="rally manager, dirt rally, online rally manager, rally manager online, web-based manager, rally management game, world rally manager, rally game, rally, rally cars, rally crew, online manager, dirtrally, ralis, ralio zaidimas lietuvoje, ralis lietuva" />
+    <meta name="y_key" content="5508d08f36b3a694" /><!-- yahoo -->
+    <link rel="stylesheet" href="common.css" type="text/css" />
+    <link rel="stylesheet" href="require.css" type="text/css" />
+    <link rel="stylesheet" href="style.css" type="text/css" />
 
     <meta property="og:title" content="Dirt Rally - online rally manager!" />
     <meta property="og:type" content="company" />
@@ -19,14 +18,14 @@
     <meta property="og:url" content="http://www.dirtrally.net" />
     <meta property="og:image" content="null" />
     <meta property="og:description" content="I've just signed up for being informed when game goes live!" />
-	</head>
+  </head>
 
-	<body>
+  <body>
 
-		<p align="center"><img src="dirt-trac-logo.png" alt="Dirt Rally" /></p>
-		<h1>Dirt Rally - online rally manager</h1>
-		<br />
-		<p align="center" class="middle justify">
+    <p align="center"><img src="dirt-trac-logo.png" alt="Dirt Rally" /></p>
+    <h1>Dirt Rally - online rally manager</h1>
+    <br />
+    <p align="center" class="middle justify">
 <strong>What it's all about?</strong><br />
 
 The main idea of the game - to manage virtual rally team and win the championship in the highest group “World Class”.
@@ -37,21 +36,21 @@ Every season lasts 15 weeks, meaning 15 different rally events. One full rally e
 Interested? We can let you know, when we are ready!
 <div rel="CFAL1PRL" class="lrdiscoverwidget" data-logo="on" data-background="off" data-share-url="www.dirtrally.net" data-css=""></div><script type="text/javascript" src="http://launchrock-ignition.s3.amazonaws.com/ignition.1.1.js"></script>
 <br />
-		</p>
+    </p>
 <br />
 
-		<div style="text-align: center; margin: 10px auto; width: 400px">
-			<?php require('includes/keywords.html') ?>
-		</div>
+    <div style="text-align: center; margin: 10px auto; width: 400px">
+      <?php require('includes/keywords.html') ?>
+    </div>
 
 
-		<?php require('includes/facebook-fanbox.html') ?>
-		<?php require('includes/follow-us.php') ?>
-		<?php include('includes/google-analytics.html') ?>
+    <?php require('includes/facebook-fanbox.html') ?>
+    <?php require('includes/follow-us.php') ?>
+    <?php include('includes/google-analytics.html') ?>
 
-			<div style="text-align: center; margin-top: 10px;">
-			<?php include("includes/heylt.html"); ?>
-		</div>
+      <div style="text-align: center; margin-top: 10px;">
+      <?php include("includes/heylt.html"); ?>
+    </div>
 <script type='text/javascript'>
 
 var _ues = {
@@ -75,5 +74,5 @@ tab_hover_color:'#F44C4C'
   })();
 
 </script>
-	</body>
+  </body>
 </html>
