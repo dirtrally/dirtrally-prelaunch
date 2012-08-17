@@ -34,6 +34,8 @@ The game has teams by default, these teams are managed automatically by “robot
 How to survive during the season? Money are being transfered to all teams after every rally event dependent on their rally results. Money from sponsors are also available. Teams have to pay salaries to it’s crew: drivers, co-drivers, mechanics. Cars can be damaged a lot during the rally events, so you have to give orders which parts must be repaired by your team's mechanics. In order to get better results, managers have to train their crew every week.<br><br>
 Every season lasts 15 weeks, meaning 15 different rally events. One full rally even lasts for 3 days as well as it is in the real world rally championship. On the 16th week, there is a race called “Race of Champions”, where winners of each group compete for the world title.<br><br>
 Interested? We can let you know, when we are ready!
+<br>
+<a href="http://www.facebook.com/media/set/?set=a.10150952283343947.409947.172787453946&type=3">Development progress so far..</a>
 <div rel="CFAL1PRL" class="lrdiscoverwidget" data-logo="on" data-background="off" data-share-url="www.dirtrally.net" data-css=""></div><script type="text/javascript" src="http://launchrock-ignition.s3.amazonaws.com/ignition.1.1.js"></script>
 <br />
     </p>
