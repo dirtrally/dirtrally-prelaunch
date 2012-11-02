@@ -85,5 +85,10 @@ tab_hover_color:'#F44C4C'
 </script>
 
 <a class="addthis_button_google_plusone_badge" g:plusone:size="badge" g:plusone:href="https://plus.google.com/111569305973619963063"></a>
+<!-- AddThis Button BEGIN -->
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5093eb49401bda43"></script>
+<!-- AddThis Button END -->
+
   </body>
 </html>
