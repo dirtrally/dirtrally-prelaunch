@@ -4,6 +4,7 @@
     <title>Dirt Rally - rally manager online</title>
     <meta http-equiv="content-Type" content="text/html; charset=utf-8" />
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <link href="https://plus.google.com/111569305973619963063" rel="publisher" />
     <meta name="author" content="Giedrius Rimkus" />
     <meta name="description" content="Dirt rally is online rally management game! You will manage your own rally team!" />
     <meta name="keywords" content="rally manager, dirt rally, online rally manager, rally manager online, web-based manager, rally management game, world rally manager, rally game, rally, rally cars, rally crew, online manager, dirtrally, ralis, ralio zaidimas lietuvoje, ralis lietuva" />
@@ -82,5 +83,7 @@ tab_hover_color:'#F44C4C'
   })();
 
 </script>
+
+<a class="addthis_button_google_plusone_badge" g:plusone:size="badge" g:plusone:href="https://plus.google.com/111569305973619963063"></a>
   </body>
 </html>
